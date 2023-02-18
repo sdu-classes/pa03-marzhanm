@@ -2,11 +2,9 @@ import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        int a = s.nextInt();
-        int b = s.nextInt();
-        s.close();
-        System.out.println("Input two variables: ");
+        int a = 20;
+        int b = 4;
+        
         Calculator calc1 = new Calculator();
         Calculator calc2 = new Calculator();
         Calculator calc3 = new Calculator();
