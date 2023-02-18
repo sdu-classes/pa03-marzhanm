@@ -1,7 +1,7 @@
 # Enter your information here
 ```
-Full name: ___ ___
-Student ID: ___ ___
+Full name: ___Mutalova Marzhan___
+Student ID: __220103354__
 ```
 
 # Practice activity 3
