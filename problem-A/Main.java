@@ -11,9 +11,9 @@ public class Main{
         Calculator calc2 = new Calculator();
         Calculator calc3 = new Calculator();
         Calculator calc4 = new Calculator();
-        System.out.print(calc1.Add(a,b)+"\n);
-        System.out.print(calc2.Substract(a,b)+"\n);
-        System.out.print(calc3.Multiplication(a,b)+"\n);
+        System.out.print(calc1.Add(a,b)+"\n");
+        System.out.print(calc2.Substract(a,b)+"\n");
+        System.out.print(calc3.Multiplication(a,b)+"\n");
         System.out.print(calc4.Division(a,b));
     }
 }
