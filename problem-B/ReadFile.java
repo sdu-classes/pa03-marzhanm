@@ -20,9 +20,11 @@ public class ReadFile{
     
     public static void Main(String[] args){
        try {
+        String filename = "test.txt";
+        String[] lines = readFile(filename);
         
-        String relPath = "files" + File.separator + "test.txt";
-        String absPath = "/code/sdu/pa03-marzhanm/problem-b/test.txt";
+     //   String relPath = "files" + File.separator + "test.txt";
+     //   String absPath = "/code/sdu/pa03-marzhanm/problem-b/test.txt";
         for (String line: lines) {
             if (line == null){
                 break;
